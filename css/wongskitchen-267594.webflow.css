@@ -442,6 +442,11 @@ p {
   background-color: #e49127;
 }
 
+.link.form-submit-button {
+  width: 100%;
+  margin-top: 15px;
+}
+
 .text-block-5 {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -496,7 +501,7 @@ p {
 
 .div-block-2 {
   height: 300px;
-  background-image: url('../images/wongs-kitchen-10.png');
+  background-image: url('../images/Wongs-Kitchen-6.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -643,6 +648,30 @@ p {
 
 .image-2 {
   padding-left: 150px;
+}
+
+.link-2 {
+  background-image: url('../images/example-bg.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.div-block-8 {
+  margin-top: 25px;
+}
+
+.social-link {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.form-block {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
 }
 
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
